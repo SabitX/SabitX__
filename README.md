@@ -15,7 +15,7 @@ Developer focused on building with HTML and PHP.
 - GitHub
 
 ## Connect With Me
-- X: (https://x.com/SabitX__)
+- X: (https://x.com/Sabit_dev)
 
 ## Current Goal
 Creating better web projects and growing as a developer.
